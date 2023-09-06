@@ -118,22 +118,32 @@ def get_ad_info(url):
             # Get the description
             description_h2 = soup.find('h2', class_='u-t3', string='Beskrivelse')
             description_p = description_h2.find_next_sibling('p') if description_h2 else None
-            description_text = description_p.text if description_p else ''
+            full_description_text = description_p.text if description_p else ''
 
             # Convert the description and search words to lowercase for case-insensitive search
-            description = description_text
-            description_lower = description_text.lower()
-            words_delebil = ["delebil", "rep objekt", "rep. objekt", "repobjekt", "reperasjonsobjekt", "reparasjons objekt", "dele bil", "ikke eu", "mangler eu",
-                     "ikke godkjent", "motorhavari", "feil med motor", "defekt motor", "bilen er ikke kjørbar"]
+            description_lower = full_description_text.lower()
+
+            words_delebil = ["delebil", "rep objekt", "rep. objekt", "repobjekt", "reperasjonsobjekt", 
+                            "reparasjons objekt", "dele bil", "ikke eu", "mangler eu",
+                            "ikke godkjent", "motorhavari", "feil med motor", "defekt motor", 
+                            "bilen er ikke kjørbar", "objekt"]
 
             # Initialize the description rating to None
             rating = None
 
-            # Check if any of the words exist in the description
+            # Check if any of the words exist in the full description
             for word in words_delebil:
                 if word in description_lower:
                     rating = "Delebil"
                     break
+
+            # Cut the description if it's too long
+            max_length = 1000  # Adjust this value with the length of your desired cut off.
+            if len(full_description_text) > max_length:
+                description = full_description_text[:max_length] + '...'
+            else:
+                description = full_description_text
+
 
             span = soup.find('span', class_='u-mh16', string=re.compile(r'^\d{4}\s'))
             if span:
@@ -255,19 +265,20 @@ def analyze_similar_cars(similar_cars):
 
     # Compute statistics for sold cars
     num_sold = len(sold_cars)
-    avg_price_sold = sum(car['Price'] for car in sold_cars) / num_sold if num_sold > 0 else 0
+    avg_price_sold = round(sum(car['Price'] for car in sold_cars) / num_sold) if num_sold > 0 else 0
 
     # Compute statistics for unsold cars
     num_unsold = len(unsold_cars)
-    avg_price_unsold = sum(car['Price'] for car in unsold_cars) / num_unsold if num_unsold > 0 else 0
+    avg_price_unsold = round(sum(car['Price'] for car in unsold_cars) / num_unsold) if num_unsold > 0 else 0
 
     # Compute the ratio of sold to unsold cars
     ratio = num_sold / (num_sold + num_unsold) if (num_sold + num_unsold) > 0 else 0
+    rounded_ratio = round(ratio * 10) / 10  # Rounding to the nearest tenth
 
     stats = {
         'Number of Sold Cars': num_sold,
         'Number of Unsold Cars': num_unsold,
-        'Sold to Unsold Ratio': ratio,
+        'Sold to Unsold Ratio': rounded_ratio,
         'Average Price (Sold Cars)': avg_price_sold,
         'Average Price (Unsold Cars)': avg_price_unsold
     }
@@ -276,41 +287,50 @@ def analyze_similar_cars(similar_cars):
 
 
 def add_car_to_data(new_car, data):
+    # Extract make and model from new_car but don't store it in the car data
+    make = new_car.pop('Make')
+    model = new_car.pop('Model')
+
     # Ensure the make exists in the data
-    if new_car['Make'] not in data:
-        data[new_car['Make']] = {}
+    if make not in data:
+        data[make] = {}
     
     # Ensure the model exists under the make
-    if new_car['Model'] not in data[new_car['Make']]:
-        data[new_car['Make']][new_car['Model']] = []
+    if model not in data[make]:
+        data[make][model] = []
 
     # Check if the car with the same Reg_nr already exists
-    existing_cars = [car for car in data[new_car['Make']][new_car['Model']] if car['Reg_nr'] == new_car['Reg_nr']]
+    existing_cars = [car for car in data[make][model] if car['Reg_nr'] == new_car['Reg_nr']]
     if existing_cars:
         # If the car already exists, we won't add it again
         return
 
     # If the car does not exist, find similar cars within the same model
-    new_car['Similar cars'] = find_similar_cars(new_car, data)
+    similar_cars_info = find_similar_cars(new_car, data)
 
     # Update the 'Similar cars' with statistics
-    stats = analyze_similar_cars(new_car['Similar cars'])
-    new_car['Similar cars'].update(stats)
+    stats = analyze_similar_cars(similar_cars_info)
+    similar_cars_info.update(stats)
 
-    # Remove the full lists now that we've computed the statistics
-    new_car['Similar cars'].pop('Full Sold List', None)
-    new_car['Similar cars'].pop('Full Unsold List', None)
+    # Check if the number of sold cars is greater than 1 before adding the info
+    if similar_cars_info.get('Number of Sold Cars', 0) > 1:
+        # Remove the full lists now that we've computed the statistics
+        similar_cars_info.pop('Full Sold List', None)
+        similar_cars_info.pop('Full Unsold List', None)
 
-    # Get the "Sold" and "Unsold" lists and pop them from the dictionary
-    sold_list = new_car['Similar cars'].pop('Sold', [])
-    unsold_list = new_car['Similar cars'].pop('Unsold', [])
+        # Get the "Sold" and "Unsold" lists and pop them from the dictionary
+        sold_list = similar_cars_info.pop('Sold', [])
+        unsold_list = similar_cars_info.pop('Unsold', [])
 
-    # Now, re-add the "Sold" and "Unsold" lists at the end
-    new_car['Similar cars']['Sold'] = sold_list
-    new_car['Similar cars']['Unsold'] = unsold_list
+        # Now, re-add the "Sold" and "Unsold" lists at the end
+        similar_cars_info['Sold'] = sold_list
+        similar_cars_info['Unsold'] = unsold_list
+
+        # Add the similar cars info to the new car data
+        new_car['Similar cars'] = similar_cars_info
 
     # Append the new car to the list of cars under its make and model
-    data[new_car['Make']][new_car['Model']].append(new_car)
+    data[make][model].append(new_car)
     print("Legges inn i filen \n")
 
 
@@ -365,5 +385,3 @@ while True:
         print(f"An error occurred: {e}")
         traceback.print_exc()
         time.sleep(60)
-
-#test
