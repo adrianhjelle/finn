@@ -1,0 +1,30 @@
+import json
+from datetime import date
+
+def move_to_today():
+
+    # Load the data from data.json
+    with open("data.json", 'r') as file:
+        data = json.load(file)
+
+    # Today's date in the format "dd.mm.yyyy"
+    today = date.today().strftime("%d.%m.%Y")
+
+    # Filter data to keep only the cars with today's date posted
+    filtered_data = {}
+    for brand, models in data.items():
+        for model, details in models.items():
+            cars_from_today = [car for car in details if car["Date_posted"] == today]
+            if cars_from_today:
+                if brand not in filtered_data:
+                    filtered_data[brand] = {}
+                filtered_data[brand][model] = cars_from_today
+
+    # Save the filtered data to a new JSON file
+    with open("today.json", "w") as file:
+        json.dump(filtered_data, file, indent=4)
+    print("Ferdig!")
+
+
+if __name__ == "__main__":
+    move_to_today()

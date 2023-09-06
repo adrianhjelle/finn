@@ -1,0 +1,2347 @@
+{
+    "Citroen": {
+        "AX": [
+            {
+                "Make": "Citroen",
+                "Model": "AX",
+                "Reg_nr": "HS71815",
+                "Price": 50000,
+                "Rating": null,
+                "Year": 1995,
+                "KM": 80000,
+                "Place": "Vestfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318515352",
+                "Description": "Kul og sjelden liten bil i ganske god stand til salgs, kunne egentlig tenkt meg \u00e5 beholde denne fantastiske lille by-bilen men den brukes mye mindre enn den fortjener hos meg. Litt om bilen, jeg har eid den i ca fire \u00e5r og kun kj\u00f8rt litt rundt med den p\u00e5 sommertid p\u00e5 tross av den har firehjulstrekk og visstnok ekstremt god fremkommelighet p\u00e5 vinterf\u00f8re. Jeg bor i Drammen og her saltes det s\u00e5 mye p\u00e5 veiene om vinteren at jeg ikke har hatt hjerte til \u00e5 dra den ut i sn\u00f8en siden bilen er s\u00e5 og si helt fri for rust. I mitt eie har den f\u00e5tt enkelt vedlikehold (tennplugger, motorolje og filter, justert bakbremser) og jevnlig vask. Lagret t\u00f8rt og trygt inne hver vinter. F\u00f8r meg ble bilen eid av en eldre kar i Lillehammer-traktene fra den var ny til han gikk bort i 2019. F\u00f8rste eier var n\u00f8ye med bilen sin og det b\u00e6rer den fortsatt preg av.Denne er sv\u00e6rt fin men ikke 100% str\u00f8ken, noen mindre skj\u00f8nnhetsfeil finnes. Innvendig er den stort sett like fin som ny bortsett fra litt slitasje p\u00e5 lakk p\u00e5 f\u00f8rerside (kanal og nederst p\u00e5 d\u00f8ra). Som de fleste andre gamle biler har denne ogs\u00e5 noen ting som m\u00e5 fikses, varmeapparat-register lekker og m\u00e5 skiftes. Alder p\u00e5 register-reim er uviss s\u00e5 denne b\u00f8r ogs\u00e5 skiftes i tillegg til at clutchen nok begynner \u00e5 bli d\u00e5rlig. Jeg har kj\u00f8pt inn det meste av deler til dette foruten ny clutch. F\u00f8lger selvf\u00f8lgelig med ved salg. Vinterdekk f\u00f8lger ogs\u00e5 med men er sv\u00e6rt gamle.Vanskelig \u00e5 finne noe \u00e5 sammenligne med for \u00e5 sette riktig pris men jeg tenker at prisantydning er en god pris selv om den m\u00e5 kostes p\u00e5 noen kroner. Bud under dette blir ikke godtatt og innbytte er heller ikke aktuelt.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "Suzuki": {
+        "Grand Vitara": [
+            {
+                "Make": "Suzuki",
+                "Model": "Grand Vitara",
+                "Reg_nr": "SU37988",
+                "Price": 13000,
+                "Rating": "Delebil",
+                "Year": 2006,
+                "KM": 190000,
+                "Place": "Hordaland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318525379",
+                "Description": "Bilen selges som reparasjonsobjekt.Motor m\u00e5 overhales eller byttes, etter motorhavari. Den har ingen kompresjon.NB: Oppgitt kilometerstand er omtrentlig etter hukommelsen. Skal kontrolleres og oppdateres.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 11,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 24363.636363636364,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "XA17425",
+                            "Price": 32000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312938596",
+                            "Date_sold": "04.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "RJ50709",
+                            "Price": 14000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=305442247",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "SU27188",
+                            "Price": 40000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313253015",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "PX39336",
+                            "Price": 15000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313595289",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Kia": {
+        "Soul": [
+            {
+                "Make": "Kia",
+                "Model": "Soul",
+                "Reg_nr": "EK42646",
+                "Price": 100000,
+                "Rating": null,
+                "Year": 2018,
+                "KM": 150000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318519529",
+                "Description": "Exclusive modellen. Gost utstyrt",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 104000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "EK70812",
+                            "Price": 104000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=281975104",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Opel": {
+        "Astra": [
+            {
+                "Make": "Opel",
+                "Model": "Astra",
+                "Reg_nr": "DL96017",
+                "Price": 35000,
+                "Rating": null,
+                "Year": 2008,
+                "KM": 170000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318513105",
+                "Description": "Selges: OPEL ASTRA GTC (MODELL 2008)Vi selger v\u00e5r flotte OPEL ASTRA GTC 2008 modell med automatisk girkasse.Bilen har en kj\u00f8relengde p\u00e5 171965 km og EU-kontroll er gyldig til 11.07.2025.Bilen har sportslige kj\u00f8reegenskaper og utseende med 2-d\u00f8rer og skinnseter. Det er blant annet utf\u00f8rt f\u00f8lgende oppgradering/reparasjoner p\u00e5 bilen den siste tiden:- Bytte alle bremsecalipre - Bytte alle bremseskiver og klosser- Bytte bremser\u00f8r bak - Olje og oljefilter byttet f\u00f8r EU-kontrollBilen er i god stand og fungere som den skal. Det er litt rust flekker her og der, men ingen disse er overfladiske. Bilen er godt vedlikeholdt og klar for ny eier som vil ha en sportslig og p\u00e5litelig bil.Det f\u00f8lger ogs\u00e5 med 2 sett n\u00f8kler, samt et sett alu-felg med hel\u00e5rs dekk. Ta kontakt for mer info eller for \u00e5 avtale en pr\u00f8vekj\u00f8ring!",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 4,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 40750.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "SU52063",
+                            "Price": 48000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312977593",
+                            "Date_sold": "01.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "Sd39898",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315597219",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "PP73669",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=317855788",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        },
+                        {
+                            "Reg_nr": "BR16907",
+                            "Price": 45000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=317950737",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Mazda": {
+        "3": [
+            {
+                "Make": "Mazda",
+                "Model": "3",
+                "Reg_nr": "RK47687",
+                "Price": 46000,
+                "Rating": null,
+                "Year": 2012,
+                "KM": 120000,
+                "Place": "Sogn og Fjordane",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318368458",
+                "Description": "Selger min Mazda 3 1,6 D 105hkLettkj\u00f8rt bil og drivstoffgjerrigByttet i mitt eie: - Bil Batteri- Dyser",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 2,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 98000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "CV54932",
+                            "Price": 46000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=316121954",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "HS86866",
+                            "Price": 150000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=318079391",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "6": [
+            {
+                "Make": "Mazda",
+                "Model": "6",
+                "Reg_nr": "BR11526",
+                "Price": 7000,
+                "Rating": null,
+                "Year": 2005,
+                "KM": 140000,
+                "Place": "Oslo",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318494302",
+                "Description": "Bilen er inntauet. Ca 5 tusen for \u00e5 f\u00e5 iut.7000 - (inntauings avgift)",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 2,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 15000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "LJ18782",
+                            "Price": 15000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313314684",
+                            "Date_sold": "03.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "ZH16067",
+                            "Price": 15000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315635678",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "626": [
+            {
+                "Make": "Mazda",
+                "Model": "626",
+                "Reg_nr": "YE63685",
+                "Price": 3000,
+                "Rating": "Delebil",
+                "Year": 1995,
+                "KM": 250000,
+                "Place": "Nordalnd",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=156100164",
+                "Description": "Bilen selges som et reparasjonsobjekt, eventuelt som delebil. Mange gode deler. Bilen var p\u00e5 EU-kontroll i 2021, men den ble ikke godkjent. Det har v\u00e6rt byttet mye deler ved behov. Jeg kan nevne: Byttet deler av eksosanlegget (alt utenom katalysatoren). Registerreim og vannpumpe i 2014. 2 nye sommerdekk og ny st\u00f8tfanger bak i 2016. Nye st\u00f8tdempere bak og deler i forstillingen i 2017, og det ble foretatt 4-hjulskontroll i den forbindelse. Den fikk 2 nye sommerdekk, batteri, to fj\u00e6rbenslager og ett drivledd i 2018. En ny bremsecaliper i 2019. Mazda tilbakekalte biler for bytte av tenningsl\u00e5s, dette ble utf\u00f8rt i 2019. Alle sommerdekkene er gode. Vinterdekkene er derimot d\u00e5rlige. Den er ikke pen i lakken da mye klarlakk har l\u00f8snet og bilen har rust.I 2021 ble alle bremseskiver og bremseklosser skiftet, samt bremseslanger foran. Skiftet ogs\u00e5 drivakselmansjetter p\u00e5 venstre drivaksel. Styreenhet for airbag er skiftet. Ny venstre kanal, h\u00f8yre og venstre hjulbue bak f\u00f8lger med bilen, om \u00f8nskelig.Det er dessverre mye rust p\u00e5 bilen. P\u00e5 EU-kontrolen i 2021 var rust i venstre kanal bemerket, og det m\u00e5 repareres f\u00f8r godkjenning. H\u00f8yre kanal har ogs\u00e5 noen svake omr\u00e5der som m\u00e5 repareres, men dette var ikke nevnt p\u00e5 EU-kontrollen i 2021. Rustskader i hjulbuer og hjulhus bak. I regnv\u00e6r kan det lekke vann inn i bilen. Ser ut som det lekker mellom frontrute og tak.Ellers er det en bil som til n\u00e5 har startet ved alle aktuelle temperaturer, og den har v\u00e6rt driftsikker og er god \u00e5 kj\u00f8re. Bilen kan besiktiges i Beiarn. Bilen er avskiltet pga manglende EU-godkjenning.Ta gjerne kontakt dersom bilen kan v\u00e6re av interesse.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "Jaguar": {
+        "XJ": [
+            {
+                "Make": "Jaguar",
+                "Model": "XJ",
+                "Reg_nr": "KH14282",
+                "Price": 70000,
+                "Rating": null,
+                "Year": 1996,
+                "KM": 150000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=309946372",
+                "Description": "Jaguar XJ6 selges, teknisk i god stand, meget god \u00e5 kj\u00f8re og s\u00e6rs behagelig.Bilen har typiske jaguarfeil, taktekkere henger og klokkens LCD display har sviktet, sistnevnte kan bestilles rimelig fra England om \u00f8nskelig.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 2,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 98500.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "BP41014",
+                            "Price": 100000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=302223086",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BP41014",
+                            "Price": 97000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=302223086",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Jeep": {
+        "Commander": [
+            {
+                "Make": "Jeep",
+                "Model": "Commander",
+                "Reg_nr": "PR23684",
+                "Price": 140000,
+                "Rating": null,
+                "Year": 2006,
+                "KM": 280000,
+                "Place": "Tronderlag",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318527551",
+                "Description": "Pen Jeep Commander  vurderes solgt.Nytt batteri4 hjuls kontroll og eu nettopp utf\u00f8rt.Ny oppbygd motor fra Cylmo, som er portet og borret opp. kvitteringer f\u00f8lger medCat back magnaflow som gir en fin v8 lyd",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "Iveco": {
+        "Daily": [
+            {
+                "Make": "Iveco",
+                "Model": "Daily",
+                "Reg_nr": "ZH38486",
+                "Price": 125000,
+                "Rating": null,
+                "Year": 2010,
+                "KM": 250000,
+                "Place": "Tronderlag",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=312458856",
+                "Description": "Selger en Iveco 65C17 2010 modell. Nye vinterdekk og 50% sommerdekk, begge med felg. Komfortstol i sj\u00e5f\u00f8rside. Nylig Eu godkjent. Bilen har kj\u00f8l og frys. Bilen selges som den st\u00e5r uten garanti.Kun seri\u00f8se henvendelser og bud.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "Dodge": {
+        "RAM": [
+            {
+                "Make": "Dodge",
+                "Model": "RAM",
+                "Reg_nr": "RZ24589",
+                "Price": 110000,
+                "Rating": null,
+                "Year": 1996,
+                "KM": 100000,
+                "Place": "Vestfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318514415",
+                "Description": "",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "GMC": {
+        "Yukon": [
+            {
+                "Make": "GMC",
+                "Model": "Yukon",
+                "Reg_nr": "BP73186",
+                "Price": 149000,
+                "Rating": "Delebil",
+                "Year": 2002,
+                "KM": 150000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=308215634",
+                "Description": "Har hatt ut motor/ byttet topp pakninger Slipt topperOverhalt dyser Godkjent ombygd med 6,6 Duramax motor Sitter 4l80e kasse med compushift styring iNye gl\u00f8deplugger Nye filtre/ oljer Motor g\u00e5r j\u00e6vlig fint, Men blir trykk i ekspansjons tankEksos g\u00e5r i vannet / er mest trolig styre studs til topp pakninger/ topper som skulle v\u00e6rt slipt litt, s\u00e5 lenge topper er slipt . Blir ikke nok press p\u00e5 pakninger Selges som rep objekt Har mye delerBra sommer hjul/ vinter hjul Nye bilstein dempere rundt omNy styre demperNye spredere i fanger Rustfrie d\u00f8rerKanaler/ bakre deler p\u00e5 bakskjermer +++++Selges eller byttes i Silverado Duramax 00/05 Eller noe annet bil Mb /Volvo / vw transporter Gi bud evt Send melding",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "Audi": {
+        "A1": [
+            {
+                "Make": "Audi",
+                "Model": "A1",
+                "Reg_nr": "SV53674",
+                "Price": 115000,
+                "Rating": null,
+                "Year": 2014,
+                "KM": 120000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318497080",
+                "Description": "1.4 122hk bensin/S tronic automat naviPen og velholdt Audi A1 med sprek motor p\u00e5 122hk, kan ikke sammenlignes med 1.2 med 86 hk. Bilen er utstyrt med bla. cruise control , radio dab, bluetooth, sportsseter i delskinn, parkeringssensor bak, elektriske vinduer, varme i setene, elektrisk justerbare speil, klimaanlegg, flotte aluminiumsfelger p\u00e5 sommer og vinter hjul. Pen fargekombinasjon, b\u00f8r ses.Full servicehistorikk fra autorisert verksted, nylig EU godkjent.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 122000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "UF60153",
+                            "Price": 122000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312542598",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "BMW": {
+        "X3": [
+            {
+                "Make": "BMW",
+                "Model": "X3",
+                "Reg_nr": "BT28448",
+                "Price": 180000,
+                "Rating": null,
+                "Year": 2015,
+                "KM": 160000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318515770",
+                "Description": "veldig god bil \u00e5 kj\u00f8re. Ingen problem med motor eller elektronikk. Den har en liten lakkfeil foran ved venstre skjerm (ikke godt synlig, og enkelt \u00e5 ordne p\u00e5 et lakkverksted). Det mangler ogs\u00e5 en kromdetalj ved h\u00f8yre forskjerm (enkelt \u00e5 montere og kj\u00f8pes p\u00e5 nett, eller hos bmw).bortsett i fra det s\u00e5 er dette en velholdt sprek bil. Fin \u00e5 kj\u00f8re b\u00e5de sommer og vinter. Fullspekket med alt av utstyr, blandt annet panoramautsikt og vebastovarmer som startes med egen fjernkontroll. Nesten nye vinterdekk som er kj\u00f8rt en vintersesong.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 1,
+                    "Number of Unsold Cars": 10,
+                    "Sold to Unsold Ratio": 0.09090909090909091,
+                    "Average Price (Sold Cars)": 195000.0,
+                    "Average Price (Unsold Cars)": 183800.0,
+                    "Sold": [
+                        {
+                            "Reg_nr": "DP63431",
+                            "Price": 195000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=318140641",
+                            "Date_sold": "03.09.2023",
+                            "Days until sold": 0
+                        }
+                    ],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "SV18650",
+                            "Price": 180000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=97538652",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "PR21559",
+                            "Price": 180000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313062978",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BS72897",
+                            "Price": 190000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314685991",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "RK47750",
+                            "Price": 185000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315256134",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "BMW",
+                "Model": "X3",
+                "Reg_nr": "RJ51777",
+                "Price": 22000,
+                "Rating": null,
+                "Year": 2004,
+                "KM": 270000,
+                "Place": "Hordaland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318527442",
+                "Description": "",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 4,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 30750.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "UF24206",
+                            "Price": 25000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=306257228",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BP97594",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314406688",
+                            "Date_sold": "14.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BP97264",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314793124",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DK77274",
+                            "Price": 28000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313453904",
+                            "Date_sold": "16.08.2023",
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "i3": [
+            {
+                "Make": "BMW",
+                "Model": "i3",
+                "Reg_nr": "EK39047",
+                "Price": 139000,
+                "Rating": null,
+                "Year": 2017,
+                "KM": 90000,
+                "Place": "Hordaland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=287713711",
+                "Description": "Bilen har alt utstyr og er kj\u00f8pt ny i Norge hos J\u00e6ger Sentrum i Bergen. Kun 2 eiere.Nye bremser b\u00e5de foran og bak utf\u00f8rt i januar 2023. Helt nye sommerdekk og 2 helt nye vinterdekk. Alle servicer tatt p\u00e5 merkeverksted.Aktiv Cruise Control med Stop & Go-funksjon.Keyless = N\u00f8kkelfri inngang i bilen.Kjente feil: Stripe i lakken p\u00e5 h\u00f8yre d\u00f8r/forskjerm. Kan antakelig poleres bort. Noen f\u00e5 bruksmerker.Motoreffekt:\u00a0125 kW/170 hkDreiemoment:\u00a0250 NmBatterikapasitet (brutto):\u00a033 kWhBatterikapasitet (netto):\u00a027,2 kWhOppgitt rekkevidde (NEDC / WLTP):\u00a0300 / 255Hurtiglading (DC):\u00a0Combo (CCS), 50 kW (fra 0 til 80 % tar ca. 20-30 minutter p\u00e5 sommertid)Hurtiglading (AC):\u00a011 kW (krever 400V/16A 3-fas, Type 2-ladekabel og veggboks/stolpe \u2013 tar ca. 3 timer)Sitteplasser:\u00a04Bagasjerom:\u00a0260 literOppgitt forbruk (blandet kj\u00f8ring, NEDC):\u00a01,26-1,31 kWh/milTopphastighet:\u00a0150 km/tAkselerasjon 0-100 km/t:\u00a07,3 sekUtstyrsliste:230 EXTRA PACKAGE, EU SPECIFIC249 MULTIFUNKSJONSRATT2T7 20\" SOMMERHJUL 430M2VB DEKK TRYKK KONTROLL2VC DEKK REP. KIT302 ALARM SYSTEM322 N\u00d8KKELFRI TILGANG3AG RYGGEKAMERA403 SOLTAK, ELEKTRISK420 M\u00d8RKE RUTER423 VELOURMATTER428 VARSELSTREKANT430 INNVENDIG UTVENDIG SPEILPAKKE442 KOPPHOLDER473 MIDTARMLENE493 OPPBEVARINGSPAKKE494 VARME I FORSETER4EA FINE WOOD TRIM OAK DARK MATT4T9 VARMEPUMPE4U6 HURTIGLADING4U7 HURTIGLADING DC508 PARK. SENSOR FORAN & BAK521 REGNSENSOR534 AIRCONDITION544 DYNAMISK CRUISECONTROL548 SPEEDOMETER KM570 REINFORCED POWER SUPPLY5A2 LED HOVEDLYS5AR TRAFFIC-QUEUE ASSISTANT5AT DRIVING ASSISTANT PLUS5DA DEAKTIVERING PASSASJERAIRBAG5DP PARKERINGSASSISTENT5DU PARK. ASSIST PAKKE609 NAVIGASJON PROFESSIONAL654 DAB TUNER674 HARMAN/KARDON HIFI6AC SOS N\u00d8DRINGEKNAPP6AE TELESERVICES6AK CONNECTEDDRIVE SERVICES6AM REAL TIME TRAFFIC INFORMATION6AN CONCIERGE SERVICES6AP REMOTE SERVICES6NS BLUETOOTH M/STREAMING7AQ BATTERY CERTIFICATE7GA COMFORT PAKKE ADVANCED7KZ BMWi INTERI\u00d8R DESIGN SUITE7S9 CONNECTEDDRIVE SERVICES8A7 NORSK SPR\u00c5K8AW NORWEGIAN / ON-BOARD DOCUMENTATION8TG TYVERI SYSTEMSommerhjul, 4 helt nyeVinterhjul, 2 stk helt nye,",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 14,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 148346.64285714287,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "EK39046",
+                            "Price": 150000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313157043",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "EK51180",
+                            "Price": 150000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313161673",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "EK39711",
+                            "Price": 148000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=286964892",
+                            "Date_sold": "04.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "EK35005",
+                            "Price": 147000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313323877",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "5-serie": [
+            {
+                "Make": "BMW",
+                "Model": "5-serie",
+                "Reg_nr": "DP20730",
+                "Price": 70000,
+                "Rating": null,
+                "Year": 2009,
+                "KM": 300000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318511697",
+                "Description": "Jeg selger min BMW 520d pga overgang til en st\u00f8rre bil, og jeg trenger ikkje to biler lenge.Bilen er i daglig bruk, \u00e5 fungere som den skal, selger uten noen garanti.Eneste kjent Feil i bilen mellomaksel lager m\u00e5 byttes, jeg har kj\u00f8pte den men jeg f\u00e5r ikkje tid til \u00e5 fikse.Prisen kan diskutere litt p\u00e5.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 9,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 93444.44444444444,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "BN69388",
+                            "Price": 80000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313021774",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "ZE68545",
+                            "Price": 80000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313108919",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BS27632",
+                            "Price": 85000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312970598",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "PP97049",
+                            "Price": 70000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313349058",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "BMW",
+                "Model": "5-serie",
+                "Reg_nr": "BS26231",
+                "Price": 193000,
+                "Rating": null,
+                "Year": 2011,
+                "KM": 250000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=313809756",
+                "Description": "Norsksolgt bilSom ny kostet 1,2 mill.Imperialblau Brillianteffekt Metallic farge og Sort dakota skinninteri\u00f8r.Fantastisk kj\u00f8remaskin med en 3-liters rekkesekser 8-trinns Automat og xDrive firehjulstrekk!Leveres med to sett hjul.Heftelser slettes ved salg!!Veldig godt utstyrt med blant annet;- EDC Elektronisk Demperkontroll- Dynamic Drive- Sportsratt i skinn med varme- DAB radio- Hengerfeste- Ryggekamera- El. bakluke- Panoramasoltak i glass- Elektrisk justerbare komfortseter- Linjeskiftvarsler- Parkeringssensorer foran og bak- Xenonlys- Webasto med fjernkontroll- Rear Seat Entertainment (DVD-skjermer i baksete)- Bluetooth- Navigasjon System Professional- Head-Up Display- HiFi H\u00f8yttalersystem- M\u00f8rke ruter- Skiltleser- 842 Cold Climate Version (Kald Klima Versjon)Full utstyrsliste!!Vehicle informationVIN long WBAMW91040C701946Type code MW91Type 530DX (EUR)Dev. series F11 ()Line 5Body type TOURSteeringLLDoor count5EngineN57TCubical capacity3.00Power190TransmisionALLRGearboxAUTColourIMPERIALBLAU BRILLANTEFFEKT METALLI (A89)UpholsteryLEDER DAKOTA/SCHWARZ (LCSW)Prod. date2011-04-28Order optionsNo.Description1CB CO2 CONTENT2PALOCKING WHEEL BOLTS2VAADAPTIVE DRIVE2WD ALLOY WHEELS W-SPOKE 332223ELECTRONIC DAMPER CONTROL (EDC)229DYNAMIC DRIVE230EU SPECIFIC ADDITIONAL EQUIPMENT248STEERING WHEEL HEATING255SPORTS LEATHER STEERING WHEEL258RUNFLAT TYRES3AC TRAILER TOW HITCH3AG BACKUP CAMERA3ATROOF RAILS ALUMINIUM SATINATED316AUTOMATIC TAILGATE OPERATION4B9INT.TRIM FINISHERS ALUM.HIGH FINISH4UR AMBIENT LIGHT4UY SKI AND SNOWBOARD BAG402PANORAMA GLASS ROOF428WARNING TRIANGLE430INT/EXT RR VW MIRROR W AUT ANTI-DAZZLE431INTERIOR RR VW MIRROR W AUT ANTI-D456COMFORT SEATS, ELECTRIC. ADJUSTABLE488LUMBAR SUPPORT DRIVER/FRONT PASSENGER494SEAT HEATING F DRIVER/FRONT PASSENGER5AD LANE DEVIATION WARNING5AG LANE CHANGE WARNING502HEADLIGHT WASHER SYSTEM508PARK DISTANCE CONTROL (PDC)522XENON LIGHT534AUTOMATIC AIR CONDITIONING536AUXILIARY HEATING6FH REAR-SEAT ENTERTAINMENT PROFESSIONAL6FLUSB-/AUDIO INTERFACE6NF EXT.CON.OF THE MUSIC PLAY.I.MOBILPH6UH TRAFFIC INFORMATION6VC CONTROL COMBOX6WA INSTRUMENT CLUSTER W. EXTENDED CONT609NAVIGATION SYSTEM PROFESSIONAL610HEAD UP DISPLAY644PREP. FOR. MOB. PH. BLUET. INTERF.677HIFI SYSTEM PROFESSIONAL698AREA-CODE 2761INDIVIDUAL SUN PROTECTION GLAZING775INDIVIDUAL ROOF-LINING ANTHRACITE8KA OELSERVICE INT. 30.000 KM/24 MONTHS8SM VIN, VISIBLE FROM OUTSIDE8TFACTIVE PROTECTION FOR PEDESTRIANS8TG ANTI-THEFT SYSTEM8TH SPEED LIMIT INFO8TLDAYTIME LIGHTS FRONT AND REAR AKTIV8TN DAYTIME LIGHTS ABOUT LIGHTMENU ADJU8V2STICKER NCAP NIED/DEAN/SCHWED842COLD CLIMATE VERSION850ADD FUEL TANK FILLING FOR EXPORT853LANGUAGE VERSION ENGLISH885SWEDISH / ON-BOARD DOCUMENTATIONSeries optionsNo.Description1CC AUTOMATIC START/STOP FUNCTION1CD BRAKE ENERGY REGENERATION205AUTOMATIC TRANSMISSION548SPEEDOMETER WITH KILOMETER READING",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 196000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "RJ70065",
+                            "Price": 196000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314370718",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "BMW",
+                "Model": "5-serie",
+                "Reg_nr": "AX93968",
+                "Price": 33000,
+                "Rating": "Delebil",
+                "Year": 2007,
+                "KM": 250000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318498250",
+                "Description": "BMW 520D TOURING E61 2.0 (150 HK)\u00a0TIL SALGS.V\u00e5r gamle trofaste tjener selges. Her er det mye bil og mange mil igjen for pengene, enten du \u00f8nsker \u00e5 bruke den eller som delebil.Bilen er i kj\u00f8rbart tilstand og er EU-godkjent til mai 2025, men det er en noen ting som b\u00f8r utbedres n\u00e5 eller p\u00e5 sikt.Her er det ogs\u00e5 gjort en god del utbedringer langt over salgsprisen p\u00e5 bilen. Gjennomf\u00f8rte utbedringer de siste \u00e5rene:Bytt flexir\u00f8r (2023)Bytt spylerv\u00e6sketank (2023)Nye spiralfj\u00e6rer frem (2023)Ny midtre bremselyslampe (2023)Skiftet multireimsett (2023)Vindusvisker bak overf\u00f8ring (2023)Ny front vindu (2023)Etterfylt gass A/C (2022)Nye bremseskiver frem + kaliper HF (2022)Skiftet dynamo (2022)Ny antenneforsterker (2022)Ny vannpumpe (2022)Nytt batteri (2021)Nye dekk PremiumContact 6 (2021)Ny ABS sensor VF (2020)Kjente feil og rustskader (se ogs\u00e5 bilder):Trenger hjulinnstillingNoe ulyd ved sving, m\u00e5 nok skifte hjullager h\u00f8yre foranLager p\u00e5 AC pumpeMindre oljelekkasjeHar varnet p\u00e5 gl\u00f8dplugger og o2 sensor/lambdasondLampe venstre foran har noe fuktSt\u00f8tfanger foran er skadet og har riperDiv lakkskader, og rustskaderRust ved h\u00f8yre bakskjermRustskade p\u00e5 venstre bremser\u00f8r fremSkader p\u00e5 speil og oksyderingH\u00f8yre bremselampe bak har til tider varnet, men fungerer n\u00e5Parkeringslys h\u00f8yre frem varner - m\u00e5 skifte lysp\u00e6reHar f\u00f8rt servicehefte frem til 168 000 km. Deretter etter bilens egen varsling p\u00e5 motorolje, bremsev\u00e6ske, filter, mv.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 50,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 58640.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "UX52796",
+                            "Price": 53000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312712539",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "VX35233",
+                            "Price": 50000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312752996",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BR55839",
+                            "Price": 45000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312696317",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BP85322",
+                            "Price": 36000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312793465",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "BMW",
+                "Model": "5-serie",
+                "Reg_nr": "BS16720",
+                "Price": 115000,
+                "Rating": null,
+                "Year": 2007,
+                "KM": 200000,
+                "Place": "Hordaland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=296575080",
+                "Description": "07 525d. Lci/3 liternKm: 202***Bilen er full m-sport. Interi\u00f8r og understell.Utstyr verdt \u00e5 nevne:Comfort acses/keylessSportsseter, full elektriske. Med memory p\u00e5 f\u00f8rersete.KoppholdereCruisekontrollAlarmNavi businessPark sensor foran og bak shadowline Avtagbart hengerfesteVindavvisere Sommerfelger i 19 Toms. Med bra dekk og 2 nye dekk.Vinterfelger i 18 Toms. Med bra dekk og bra med pigg igjen. S\u00e5 \u00e5 si ingen rust p\u00e5 bilen, de typiske rustplassene er rustfrie. VasketOptimalisert girkassen med stage 3. For smoothere og mer behagelig giring. Lagt inn moment begrensing.Heftelser vil bli sletta ved salg.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 6,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 150166.66666666666,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "SX14103",
+                            "Price": 120000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312166737",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "RJ70065",
+                            "Price": 196000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314370718",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "SV11284",
+                            "Price": 150000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=308227067",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        },
+                        {
+                            "Reg_nr": "VT20383",
+                            "Price": 140000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=317940748",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "3-serie": [
+            {
+                "Make": "BMW",
+                "Model": "3-serie",
+                "Reg_nr": "KH49791",
+                "Price": 20000,
+                "Rating": "Delebil",
+                "Year": 2007,
+                "KM": 130000,
+                "Place": "Vestfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318523454",
+                "Description": "Denne BMWn selges som delebil. Til h\u00f8ystbydende over kr 20 000,-",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 1,
+                    "Number of Unsold Cars": 161,
+                    "Sold to Unsold Ratio": 0.006172839506172839,
+                    "Average Price (Sold Cars)": 33000.0,
+                    "Average Price (Unsold Cars)": 59379.48447204969,
+                    "Sold": [
+                        {
+                            "Reg_nr": "BR28307",
+                            "Price": 33000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=311356262",
+                            "Date_sold": "04.09.2023",
+                            "Days until sold": 0
+                        }
+                    ],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "TV62284",
+                            "Price": 60000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312642767",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "CV42567",
+                            "Price": 150000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312685238",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BD54924",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312687294",
+                            "Date_sold": "02.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "ZH20093",
+                            "Price": 33000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312698948",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "X1": [
+            {
+                "Make": "BMW",
+                "Model": "X1",
+                "Reg_nr": "BR97477",
+                "Price": 63000,
+                "Rating": null,
+                "Year": 2010,
+                "KM": 270000,
+                "Place": "Sogn og Fjordane",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318521769",
+                "Description": "",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 70000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "KH71467",
+                            "Price": 70000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312982071",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Ford": {
+        "Focus": [
+            {
+                "Make": "Ford",
+                "Model": "Focus",
+                "Reg_nr": "RK87598",
+                "Price": 120000,
+                "Rating": null,
+                "Year": 2015,
+                "KM": 100000,
+                "Place": "Sornorge",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318521144",
+                "Description": "Siste Kj\u00f8ret\u00f8ykontroll 30.08.2023 - Alt OKhttps://eu.citnow.com/vtcs6SCtW7dBilen brukes innimellom og km stand vil kunne \u00f8keMindre funksjoner\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten skvettlapper bak\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten skvettlapper foran\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Produsert i Saarlouis\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten spesialutstyrspakke\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten SVO-merke\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Markedsf\u00f8ringsniv\u00e5 1\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten pyntet RSO\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0(-) SVP\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten brannslukkingsapparatfester\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Sett - avansert dekkreparasjon SVC\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med auto vinduslukking\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0El. vinduer foran, 1 trykk opp/ned\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0El vinduer bak, ett-trykk opp/ned\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Skilleglass\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med oppvarmet frontrute\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Mini takkonsoll med solbrilleholder\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Konsoll - Med lukket rom\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Interi\u00f8rfarge-Charcoal Black\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Interi\u00f8rfarge - Charcoal-svart\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Golvteppematter foran\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Deluxe taktrekk\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten Lastholdernett\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med lasteromsteppe\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten takgrind\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Beskyttelseslister for d\u00f8rkanter\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten ekstra tverrstag for takgrind\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med bakre spoiler\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med elektrokromatisk bakspeil\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Db el/opv./infl.b./innst.l./rtn.lys\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten spesialtrekk foran\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten spesialtrekk bak\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med 60:40-delt sam.leggbart baksete\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med nakkest\u00f8tte i midten bak\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0M/ man. korsryggst\u00f8tte, f\u00f8rersiden\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten korsryggst\u00f8tte, passasjer\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med oppvarmet f\u00f8rersete\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med Oppvarmet Sete\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0M beltevarsel for f\u00f8rer- og ps.sete\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med 4-veis el. just., f\u00f8rersetet\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med 2-veis man just. pass.sete\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten tilhengerfeste\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med forh.klar. for tilhengerfeste\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Tenningsn\u00f8kkel, utstyrspakke 1\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten d\u00f8rl\u00e5sdeksler\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med Barnesikringsl\u00e5s\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten andre n\u00f8kkel med fjernkontroll\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med sentrall\u00e5s\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0N\u00f8kkelfri inngang/start - passiv\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med automatisk frontrutevisker\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten Soltak\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten rustbeskyttet understell\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten brakett for nummerskilt foran\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Sidekollisjonsgardin VS\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Sidekollisjonsgardin RH\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med sidekollisjonspute - f\u00f8rersiden\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med sidekoll.pute - passajersiden\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten koll.putedeak. pass.side\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten reservehjul\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Dekktrykksf\u00f8lere \u2013 433 MHZ\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a07,0 x 17\" lettmetallfelg, titanium\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0215/50 17\" W Rated BSW Tyre\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med standard dekkm\u00f8nster \u2013 foran\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Ikke tyverisikre hjulmuttere\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten skillekantlister\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med Kysor-radiatorklaffer\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten varmepatron\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Startmotor - stopp/start-system\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Euro 6-utslipp\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med Standard Fj\u00e6ring\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Fremre fj\u00e6r, belastningsklasse H\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Bakfj\u00e6r belastn. klasse-O\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Frem/bak kalip og put, norm belast\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med bakre skivebremser\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Sikkerhetssystem for lav hastighet\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Bremser-TS/HLA/ESP/TC/ABS\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0U/ man. girkasse m/ auto. skiftmek.\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med enkelt forsete m. h\u00f8y rygg\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Ratt - 3-eikers, skinntrukket\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med oppvarmet ratt\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Adaptiv fartsholder\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med ekstra luftvarmer\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Konvensjonelle instrumenter-niv\u00e5 3\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med reostat p\u00e5 instrumentgruppa\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Dekkoppbl\u00e5singsoverv\u00e5king niv\u00e5 II\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten Navigeringssystem\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten blindsoneinformasjonssystem\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten kj\u00f8refeltsvarsling\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten hastighetssignalgjenkjenning\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten Tyverialarm\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med parkeringshjelp bak\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med fremre parkeringshjelp\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Avansert automatisk park.system\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med bilunderholdningspakke 11\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten r\u00f8ykepakke\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Kamera for baksiden - fast\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Uten styling-pakke\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med auto-hovedlykter\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med adaptive hovedlykter bi-xenon\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0DTRL Lamp Lit In Pos 0 And Pos\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med T\u00e5kelys Foran\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Lys flerfarget omg.LED\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Baklys - LED bak\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Med automatisk hovedlyktstyring",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 6,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 152142.16666666666,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "BT13711",
+                            "Price": 180853,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312947300",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DN45455",
+                            "Price": 120000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313089137",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "RK60220",
+                            "Price": 135000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313463787",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BD58856",
+                            "Price": 147000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=302215600",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "Mondeo": [
+            {
+                "Make": "Ford",
+                "Model": "Mondeo",
+                "Reg_nr": "KB 42842",
+                "Price": 46000,
+                "Rating": null,
+                "Year": 2012,
+                "KM": 140000,
+                "Place": "Vestfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=245513550",
+                "Description": "Bil kj\u00f8pt i 2013 av Billia De hadde da importert den fra Tyskland og hadde g\u00e5tt 41000km. Service p\u00e5 ca hver 20000km p\u00e5 godkjent verksted hele tiden. Registerreim byttet i 2017 p\u00e5 84000km. Girkassa er flushet/byttet 2 ganger i mitt eie, sist p\u00e5 123800km, 26/1-21. I 2014 er det en kollisjonsskade etter p\u00e5kj\u00f8ring bakfra. Forsikringssak. Byttet hengerfeste, st\u00f8tfanger og litt p\u00e5 bakluka. Lakken har begynt \u00e5 l\u00f8sne nederst p\u00e5 noen d\u00f8rer(se bilde). Noe rust. Sommerdekk halvslitt. Vinterdekk er d\u00e5rlig. Selges som den st\u00e5r til h\u00f8ystbydende.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 25,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 72248.92,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "VH29443",
+                            "Price": 115000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=299351726",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "RJ52580",
+                            "Price": 80000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313141768",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DL87382",
+                            "Price": 55000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=306409325",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DN16516",
+                            "Price": 47000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313420521",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Ford",
+                "Model": "Mondeo",
+                "Reg_nr": "PR40369",
+                "Price": 185000,
+                "Rating": null,
+                "Year": 2017,
+                "KM": 120000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=194385228",
+                "Description": "Bilen har komplett servicehistorikk, siste service 27.06.22 p\u00e5 merkeverksted. Bilen er EU godkjent til 30.09.23. Nye sommerdekk og nytt batteri i Juni 2022. Ta kontakt for mer informasjon: 954 45 984",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "Mercedes-Benz": {
+        "E-Klasse": [
+            {
+                "Make": "Mercedes-Benz",
+                "Model": "E-Klasse",
+                "Reg_nr": "DP55866",
+                "Price": 89000,
+                "Rating": null,
+                "Year": 2014,
+                "KM": 520000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318241440",
+                "Description": "S/ v hjul 19\u2019\u2019 concav p\u00e5 sommer hjul Nesten nye 17 vinter hjul u/ piggBilen er fin \u00e5 kj\u00f8re Mye bil igjen",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 180000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "PR24614",
+                            "Price": 180000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313121808",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "Vito": [
+            {
+                "Make": "Mercedes-Benz",
+                "Model": "Vito",
+                "Reg_nr": "DN82827",
+                "Price": 132000,
+                "Rating": null,
+                "Year": 2012,
+                "KM": 210000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318524664",
+                "Description": "Reliable 4x4 Vito for sale.Service is due in 200kms.There is some rust, small scratches and dents as you can expect from any other 10 year old work horse:)Price can be discussed for a quick sale.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 139000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "DN51068",
+                            "Price": 139000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=317975702",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Mitsubishi": {
+        "Outlander": [
+            {
+                "Make": "Mitsubishi",
+                "Model": "Outlander",
+                "Reg_nr": "ZZ24302",
+                "Price": 190000,
+                "Rating": null,
+                "Year": 2016,
+                "KM": 110000,
+                "Place": "Til helvete",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=308314165",
+                "Description": "Kjempe fin og god bil til salgs. Med tilhengerfeste og motorvarmer. Selges pga overgang til helelektrisk bil. EU godkjent til mars 2025. Service tatt 04.07.2023. Gode vinterdekk (kj\u00f8rt en vinter) og gode sommerdekk. En liten, nesten usynlig, bulk foran lade luka og i ladeluka - se bilde. Ellers er det ingen andre kjente feil med bilen.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 2,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 192500.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "XN41424",
+                            "Price": 190000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312943073",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "VH77967",
+                            "Price": 195000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=318072328",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Mitsubishi",
+                "Model": "Outlander",
+                "Reg_nr": "DN33048",
+                "Price": 95000,
+                "Rating": null,
+                "Year": 2010,
+                "KM": 100000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318380673",
+                "Description": "",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 3,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 112666.66666666667,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "XV64651",
+                            "Price": 140000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=311213507",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "PD37983",
+                            "Price": 98000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315206709",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "LY69032",
+                            "Price": 100000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315976696",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Mitsubishi",
+                "Model": "Outlander",
+                "Reg_nr": "HB68139",
+                "Price": 15000,
+                "Rating": "Delebil",
+                "Year": 2007,
+                "KM": 250000,
+                "Place": "Sogn og Fjordane",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=309705007",
+                "Description": "Selges som rep objekt Blir brukt daglig fram til n\u00e5, pga ny bil Lekkasje i diesel tankD\u00e5lig st\u00f8tdempere fremme Noe rust i travers bakPluss noe sm\u00e5feil Har 8 vinterdekk med felg og 4 sommerhjul Selges som den st\u00e5r uten noe form for garanti Pris kan diskuteres med hurtig avgj\u00f8relse",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 7,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 36160.42857142857,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "VX32680",
+                            "Price": 48123,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312855149",
+                            "Date_sold": "31.07.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "SD20652",
+                            "Price": 20000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313318008",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "VF88875",
+                            "Price": 60000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314329964",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "KT83036",
+                            "Price": 27000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314085844",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Nissan": {
+        "Leaf": [
+            {
+                "Make": "Nissan",
+                "Model": "Leaf",
+                "Reg_nr": "EL17123",
+                "Price": 40000,
+                "Rating": null,
+                "Year": 2012,
+                "KM": 120000,
+                "Place": "Hordaland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=302401848",
+                "Description": "Bilen vert seld som den st\u00e5r, d\u00e5 eg ikkje kjenner tilstand p\u00e5 bilen. Den vart kj\u00f8pt av far min hj\u00e5 forhandlar i oktober 2022. Kort tid etter skadde han seg og bilen har ikkje vore brukt sidan november. Avregistrert sidan desember men har skilt liggjande til eventuell p\u00e5registrering. Det f\u00f8l med 2 hjulsett. St\u00e5r p\u00e5 to sommardekk og to piggfrie vinterdekk pr no. Alle sommardekk er slitte/harde og b\u00f8r skiftast, to vinterdekk er punktert og to er ok. Uoriginal ladar til stikkontakt f\u00f8l med.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 7,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 43571.42857142857,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "EL14705",
+                            "Price": 40000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314766519",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "EL15967",
+                            "Price": 50000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314895880",
+                            "Date_sold": "17.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "EL30481",
+                            "Price": 45000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315386245",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "EL19397",
+                            "Price": 45000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315492694",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Peugeot": {
+        "307": [
+            {
+                "Make": "Peugeot",
+                "Model": "307",
+                "Reg_nr": "VT15871",
+                "Price": 7000,
+                "Rating": null,
+                "Year": 2007,
+                "KM": 250000,
+                "Place": "Tronderlag",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318464967",
+                "Description": "Bilen er i daglig drift. Selges billig grunnet overgang til firmabil.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 16000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "ZF99623",
+                            "Price": 16000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=316436767",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "Partner": [
+            {
+                "Make": "Peugeot",
+                "Model": "Partner",
+                "Reg_nr": "KH94544",
+                "Price": 45000,
+                "Rating": null,
+                "Year": 2013,
+                "KM": 230000,
+                "Place": "Sornorge",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318524447",
+                "Description": "lang utgave . selges pga endret behov",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ],
+        "3008": [
+            {
+                "Make": "Peugeot",
+                "Model": "3008",
+                "Reg_nr": "VH36236",
+                "Price": 65000,
+                "Rating": null,
+                "Year": 2011,
+                "KM": 130000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=232570560",
+                "Description": "Selges veldig praktisk familie bil med masse plass. Bilen har ny EU KONTROLL som holder til 15.09.2025 Skiftet regreimsett med vannpumpe og stor service . Det var dame som bruk bilen.Aldri r\u00f8yk inni . Selges med to sett 17tom hjul",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 75000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "CF57619",
+                            "Price": 75000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=316187103",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Skoda": {
+        "Yeti": [
+            {
+                "Make": "Skoda",
+                "Model": "Yeti",
+                "Reg_nr": "FT32955",
+                "Price": 48000,
+                "Rating": null,
+                "Year": 2011,
+                "KM": 210000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318523664",
+                "Description": "Du vet sikkert hvilken herlig bil dette er, siden du ser p\u00e5 annonsen. Kompakte m\u00e5l, men god innvendig plass, knallgod p\u00e5 vinterf\u00f8re, sprek dieselmotor p\u00e5 140 hk, som kj\u00f8rer mila p\u00e5 en halvliter. God svingradius. Komfortabel bil med gode kj\u00f8reegenskaper.Alle servicer er fulgt opp og dokumentert, nylig reparasjon p\u00e5 avgass-system for 24000,Registerreim byttet i 2022.Dessverre er det noe rust p\u00e5 skjermer og d\u00f8rer, men er du heldig kan denne bilen vare i flere \u00e5r framover.Du f\u00e5r med en takboks ferdig p\u00e5 lasteholdere, ekstra whispbar lasteholdere, avtagbart hengerfeste, motor- og kupevarmer, bagasjeromsnett, originalt trau til bagasjerom for v\u00e5te og skitne gjenstander mm.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ],
+        "Fabia": [
+            {
+                "Make": "Skoda",
+                "Model": "Fabia",
+                "Reg_nr": "UF38029",
+                "Price": 30000,
+                "Rating": null,
+                "Year": 2008,
+                "KM": 100000,
+                "Place": "Sogn og Fjordane",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318518764",
+                "Description": "Fin og i god stand.Nylig tatt service.Mye bil for pengene.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "Toyota": {
+        "Auris": [
+            {
+                "Make": "Toyota",
+                "Model": "Auris",
+                "Reg_nr": "TV85816",
+                "Price": 125000,
+                "Rating": null,
+                "Year": 2013,
+                "KM": 150000,
+                "Place": "Sogn og Fjordane",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318230563",
+                "Description": "",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ],
+        "Avensis": [
+            {
+                "Make": "Toyota",
+                "Model": "Avensis",
+                "Reg_nr": "CF46534",
+                "Price": 33000,
+                "Rating": null,
+                "Year": 2008,
+                "KM": 170000,
+                "Place": "Sogn og Fjordane",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318477374",
+                "Description": "Jeg selger min toyota avensis n\u00e5 fordi jeg studerer og har ikke r\u00e5d til \u00e5 ha den lenger... dette er en god bil \u00e5 kj\u00f8re, og snill p\u00e5 drivstoffet. Skiltet er blitt \u00f8delagt etter en liten bulkehendelse i vinter men det fungerer fremdeles som det skal, bakskjermen er litt \u00f8delagt etter en bulk p\u00e5 g\u00e5rdsplass, ellers ingen skader. Ta gjerne kontakt om du er interressertSend sms da jeg studerer og er litt optatt med skole.Nr. 91998106",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 15,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 39733.333333333336,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "BR19242",
+                            "Price": 39000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312668933",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DL72513",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312992518",
+                            "Date_sold": "01.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "YE82793",
+                            "Price": 50000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313239505",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DK78272",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313556652",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "Prius": [
+            {
+                "Make": "Toyota",
+                "Model": "Prius",
+                "Reg_nr": "SU90968",
+                "Price": 23000,
+                "Rating": null,
+                "Year": 2006,
+                "KM": 300000,
+                "Place": "Oslo",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318512732",
+                "Description": "Det er 2 biler som er tilsalgs. Toyota prius er veldig billig i drift, med full tank kan man kj\u00f8re over 1000km og ved blandet kj\u00f8ring ca 800km. Den andre er en Peugeot 207, diesel som er 2011, grunnet skjermet adresse er det ikke mulig \u00e5 legge den ut p\u00e5 finn med reg.nr. Prisen er 20000 kr. Sp\u00f8rsm\u00e5l ang\u00e5ende denne bilen vil besvares detaljert hvis man \u00f8nsker. Legger ved bilder av denne ogs\u00e5. Begge bilene har steinsprut p\u00e5 frontruta, hvis det er \u00f8nskelig vil det bli fikset f\u00f8r omregistrering. Hele frontruta blir skiftet p\u00e5 begge bilene. Hvis ikke kan pris diskuteres.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 30000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "BT58517",
+                            "Price": 30000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313728759",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "Prius+ Seven": [
+            {
+                "Make": "Toyota",
+                "Model": "Prius+ Seven",
+                "Reg_nr": "UR89057",
+                "Price": 120000,
+                "Rating": null,
+                "Year": 2013,
+                "KM": 230000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318513719",
+                "Description": "Fantastisk familie bil med 7 seter aldri hatt noen problem kun en eier, har kj\u00f8rt alltid privat siste 1 \u00e5r kj\u00f8rte jeg drosje.Nydelig EU-godkjent  til 2025 september sommer dekk er helt ny kj\u00f8rt 5000  kilometer,",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ],
+        "Yaris Verso": [
+            {
+                "Make": "Toyota",
+                "Model": "Yaris Verso",
+                "Reg_nr": "RJ31742",
+                "Price": 38000,
+                "Rating": null,
+                "Year": 2004,
+                "KM": 150000,
+                "Place": "Sornorge",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318521345",
+                "Description": "nylig EU godkjent uten feil, veldig praktisk rimelig i drift og p\u00e5litelig bil, jeg har hatt bilen siden 2008 dvs. 15 \u00e5r , bilen er uten rust og har ikke reg.reim som m\u00e5 byttes ,sommerdekk p\u00e5 alu.felg er fra 2021. vinterdekk er piggfrie. bremse fram og bak er byttet for 2 \u00e5r siden.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    },
+    "Volkswagen": {
+        "Amarok": [
+            {
+                "Make": "Volkswagen",
+                "Model": "Amarok",
+                "Reg_nr": "AY18029",
+                "Price": 17000,
+                "Rating": null,
+                "Year": 2012,
+                "KM": 160000,
+                "Place": "Sornorge",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=315412854",
+                "Description": "Arbeidsbil selges. Har v\u00e6rt lite tr\u00f8bbel i mitt eie, hatt den siden 70000km og v\u00e6rt fulgt opp med servicer. Bilen er oppjustert av Grimstad chiptuning til 205hk , ligger med ett snittforbruk p\u00e5 ca 0,7.Den f\u00f8lger med en enkel verkt\u00f8yinnredning med skruestikke p\u00e5 planet.Den er ikke plettfri i lakken lenger , noe riper og mindre bulker bak finnes..Er to ting som som kunne v\u00e6rt fiksa: kupevifta g\u00e5r bare p\u00e5 full hastighet og den ene vaieren p\u00e5 baklemmen har r\u00f8ket",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 7,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 149142.85714285713,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "ZD17059",
+                            "Price": 145000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=281604176",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "NF63198",
+                            "Price": 147000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313504159",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "PP96706",
+                            "Price": 129000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=293354525",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "RK53928",
+                            "Price": 195000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315424776",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "Golf": [
+            {
+                "Make": "Volkswagen",
+                "Model": "Golf",
+                "Reg_nr": "LY74466",
+                "Price": 80000,
+                "Rating": null,
+                "Year": 2013,
+                "KM": 130000,
+                "Place": "Vestfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318514422",
+                "Description": "",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 25,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 107432.72,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "DP20977",
+                            "Price": 90965,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=263875906",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DN57689",
+                            "Price": 130000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=301833754",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "SV39500",
+                            "Price": 92000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312942466",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BD74725",
+                            "Price": 140000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313364984",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Volkswagen",
+                "Model": "Golf",
+                "Reg_nr": "ZZ17859",
+                "Price": 120000,
+                "Rating": null,
+                "Year": 2015,
+                "KM": 160000,
+                "Place": "Til helvete",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318214541",
+                "Description": "Fin Golf Stasjonsvogn.Manuell 6 gir. T\u00f8ff interi\u00f8r.Montert ekstra: lazer ledbar med bryter i bilen og ryggekamera som kommer ut av VW logoen. Gjort av Alta Motor.VSommerdekk er nye i \u00e5r.Vinter dekk var nye i desember.Alle servicene er fulgt p\u00e5 Alta Motor i mitt eie.Bakdifferensial r\u00f8k i vinter, Denne ble byttet av Alta motor.F\u00e5 steinsprut til \u00e5 v\u00e6re en bruktbil.Ta kontakt om du lurer p\u00e5 noe. Kan v\u00e6re behjelpelig med \u00e5 levere bilen I Nord-Norge.Med forbehold om feil i annonsen.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 8,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 137606.625,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "FT44531",
+                            "Price": 135853,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312873089",
+                            "Date_sold": "01.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DN57689",
+                            "Price": 130000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=301833754",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "XR54321",
+                            "Price": 160000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312715096",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DP33600",
+                            "Price": 120000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314230936",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Volkswagen",
+                "Model": "Golf",
+                "Reg_nr": "EL75894",
+                "Price": 170000,
+                "Rating": null,
+                "Year": 2016,
+                "KM": 60000,
+                "Place": "Til helvete",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318525010",
+                "Description": "Str\u00f8ken E Golf til salgs, nye vinterdekk st\u00e5r i Alta",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 10,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 183285.3,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "CF84412",
+                            "Price": 175000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313204714",
+                            "Date_sold": "02.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "AS50373",
+                            "Price": 190000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313542037",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "UF56266",
+                            "Price": 194853,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313586973",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "SV66477",
+                            "Price": 196000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=268007207",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "Multivan": [
+            {
+                "Make": "Volkswagen",
+                "Model": "Multivan",
+                "Reg_nr": "KT65021",
+                "Price": 140000,
+                "Rating": null,
+                "Year": 2003,
+                "KM": 300000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318526216",
+                "Description": "Hel og fin VW Multivan selges. Fin og praktisk for b\u00e5de camping og hverdags.Det er montert kj\u00f8leskap med fryser i stedenfor den originale vasken. Vasken f\u00f8lger med.Sterk og fin dieselmotor.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ],
+        "Passat": [
+            {
+                "Make": "Volkswagen",
+                "Model": "Passat",
+                "Reg_nr": "CF61296",
+                "Price": 98000,
+                "Rating": null,
+                "Year": 2012,
+                "KM": 180000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318511461",
+                "Description": "Volkswagen Passat 2012 selges!Flere bilder og info kommer senere.Bilen har nylig hatt olje skift hos merke verksted i henhold til service intervallene. Nylig byttet begge fj\u00f8rer forran og fj\u00e6rbeinlager.Av utstyr s\u00e5 har denAlcantara  seterSete varme forranBluetooth kobling/musikk/handsfreeDab radioVinter dekkSommer dekkCruise kontrollBagasjeroms matteBilen selges pga endret behov.Bilen har blitt lite brukt, kun til langtur. Bilen blir brukt iblant. S\u00e5 km kan \u00f8ke litt.Hbo 99 500krBilen selges som den er.Er ingen feil som vi er viten om med bilen. Den fungerer som den skal.Ingen feilkoder.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 3,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 107666.66666666667,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "UC27311",
+                            "Price": 115000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=292108855",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "CF58594",
+                            "Price": 98000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=316135905",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "JD72262",
+                            "Price": 110000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=318328722",
+                            "Date_sold": null,
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Volkswagen",
+                "Model": "Passat",
+                "Reg_nr": "SU35389",
+                "Price": 35000,
+                "Rating": null,
+                "Year": 2007,
+                "KM": 240000,
+                "Place": "Vestfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318450216",
+                "Description": "Passat med god firehjulstrekk selges. Dette er en popul\u00e6r og driftssikker bil med sv\u00e6rt god kj\u00f8rekomfort. Det er stor og romslig setter som er komfort og sitte p\u00e5 til og med i lange kj\u00f8ringer. Bilen har rikelig med plass til passasjer foran og bak og en stor bagasjeromsplass. Bilen f\u00f8lger med to n\u00f8kler. Vinter pigg dekk f\u00f8lger med. Service p\u00e5 bilen: - Byttet skiver og klosser bak p\u00e5 begge sider. - Byttet kalipper bak p\u00e5 begge sider. - Bilen ser hel og penn ut tanke p\u00e5 den har gjennomg\u00e5tt en nylig vask b\u00e5de inn og ut. - Har nylig byttet olje Negative ting om bilen: Vindusviskere bak fungerer ikke/ defekt. Er rust i begge sidene av bilen med det noe som er forventet p\u00e5 en 2006 modell. Bilen selges som den er, uten noe form garanti. Ring meg eller skriv mld om du er interessert.Tlf nummer 94477510",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            },
+            {
+                "Make": "Volkswagen",
+                "Model": "Passat",
+                "Reg_nr": "UC19611",
+                "Price": 12000,
+                "Rating": null,
+                "Year": 1999,
+                "KM": 270000,
+                "Place": "Sogn og Fjordane",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=317827280",
+                "Description": "Grei bruksbil. Gode sommar og vinterdekk (pigg). Nettopp skifta bremseskiver, klossar og kalipperar bak. Nesten nye skiver og klossar framme. F\u00f8lger med eit stort sett med deler til forhjulsstilling og servicesett. EU-godkjend til 31. januar 2024.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 15000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "UR57180",
+                            "Price": 15000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=310415106",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Volkswagen",
+                "Model": "Passat",
+                "Reg_nr": "BR34222",
+                "Price": null,
+                "Rating": null,
+                "Year": 2007,
+                "KM": 370000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318528097",
+                "Description": "2007 model? 2.0tdi 103kw? 4motion!!!? Eu 2024.02? 6 gear manual gearbox? 360k km stand? Cruise control? Webasto+ defa? Creme alcantara recaro seats(heated)? Tv? Trailer hook? Double exhaust? Good tyresDrives good - no faults !! uten garanti",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ],
+        "Sharan": [
+            {
+                "Make": "Volkswagen",
+                "Model": "Sharan",
+                "Reg_nr": "BS91716",
+                "Price": 150000,
+                "Rating": null,
+                "Year": 2011,
+                "KM": 190000,
+                "Place": "Oppland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=265232817",
+                "Description": "Romslig, velholdt familiebil med praktiske l\u00f8sninger selges, da vi har parkert den st\u00f8rste barnevognen og g\u00e5tt over til beltestoler p\u00e5 to av barna.Bilen har isofix fester p\u00e5 alle de fem baksetene.Bilen er godt ivaretatt og har komplett servicehistorikk fra autoriserte verksteder.Regreim og vannpumpe ble byttet p\u00e5 153117km.Dette er en highline-utgave smekkfull av praktisk utstyr.Nettop v\u00e6rt p\u00e5 EU kontroll uten feil og mangler.EU-godkjent til 17.04.2025Den har nylig v\u00e6rt inne til service og fylt gass p\u00e5 AC.Bilen har noen kosmetiske merker etter flere \u00e5r p\u00e5 veien men ingen som er til sjenanse.Her f\u00e5r du er super bil med mye plass til en fornuftig pris.Dersom du lurer p\u00e5 noe er det bare \u00e5 ta kontakt her p\u00e5 finn eller via tlf.Heftelser vil bli slettet i forbindelse med salg.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 150000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "BS21905",
+                            "Price": 150000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315530905",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Volvo": {
+        "V70": [
+            {
+                "Make": "Volvo",
+                "Model": "V70",
+                "Reg_nr": "VH17087",
+                "Price": 73000,
+                "Rating": null,
+                "Year": 2006,
+                "KM": 280000,
+                "Place": "Tronderlag",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=298045002",
+                "Description": "Volvo V70 Awd D5 185hk selges.Behagelig og p\u00e5litelig bil med super firehjulstrekk.Bilen har dieselvarmer med timer. Helt suverent p\u00e5 vinteren!Satt inn en Pioneer 2-DIN spiller med Apple Carplay, Android Auto, Bluetooth og DAB+ (antenne ikke p\u00e5koblet)Mye nytt i forstillingParkeringssensor og innebygd GPS virker ikkeGode sommerdekk og vinterdekkEU-godkjent ut november 2024",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 1,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 148000.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": null,
+                            "Price": 148000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=277744666",
+                            "Description": "V70 R selges.Den klassiske fargekombinasjonen med Titanium grey metallic lakk og Atacama interi\u00f8r. Interi\u00f8ret er i sv\u00e6rt god stand i forhold til bilens alder og kj\u00f8relengde. Bilen har nettopp v\u00e6rt hos bilpleie og blitt polert og vokset.2 n\u00f8kler, servicebok og dokumentasjon f\u00f8lger med. Det ligger stoffmatter i atacama b\u00e5de p\u00e5 gulv og i bagasjerom.R-line utstyrsniv\u00e5 som betyr at bilen har det meste Volvo kunne tilby i 2004. Takluke, Xenon, El. oppvarmede og innfellbare speil, El sete med minne er ekstrautstyr, i tillegg har bilen ogs\u00e5 avtagbart hengerfeste og motorvarmer.Stor stereopakke med Dolby digital, original 9\" basskasse i hjulbr\u00f8nn og forsterker under passasjersete gir god lydopplevelse.Det sitter R-felger med ok sommerdekk p\u00e5 bilen n\u00e5. Vinterhjul kan medf\u00f8lge etter avtale/tillegg i pris.Bilen g\u00e5r pent i motor og gir. Mange velger \u00e5 g\u00e5 for manuell girkasse p\u00e5 disse bilene men selv foretrekker jeg automat som er mye snillere mot drivverk og girkasse. Det er ingen hemmelighet at mange V70 R har f\u00e5tt kj\u00f8rt seg opp gjennom \u00e5rene med mange ulike eiere bak rattet. Resultatet er at n\u00e5r bilene er kommet opp i den alderen de er n\u00e5 s\u00e5 er alt brukt opp.Har v\u00e6rt med p\u00e5 \u00e5 bytte flere girkasser, clutcher og fordelingskasser p\u00e5 disse bilene, kostbare reparasjoner som man i stor grad slipper p\u00e5 en automat.Alt i alt en grei bil i god bruksstand, noe kosmetiske skavanker m\u00e5 man regne med p\u00e5 gammel bil. Teknisk framst\u00e5r den som bra og den ble nettopp Eu-godkjent uten feil. Kikker man over og under finner man helt sikkert noe \u00e5 mekke litt p\u00e5 om man vil ha en helt str\u00f8ken bil.Sl\u00e5 til n\u00e5 som prisene p\u00e5 disse bilene fremdeles er fornuftige. Om f\u00e5 \u00e5r vil alle de fine R bilene antageligvis ende opp hos entusiaster som aldri selger igjen.Kan evt. ta innbytte i for eksempel XC60, XC70 eller V70",
+                            "Days until sold": null
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Volvo",
+                "Model": "V70",
+                "Reg_nr": "SU95492",
+                "Price": 73000,
+                "Rating": null,
+                "Year": 2011,
+                "KM": 120000,
+                "Place": "Hordaland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=307894525",
+                "Description": "Flott familiebil med drivstoffgjerrig dieselmotor.Suveren komfort, gode kj\u00f8reegenskaper, trygg og god kj\u00f8ref\u00f8lelse har Volvo V70,Hattehylle f\u00f8lger med.Bilen selges som den er og uten noen form for garanti.EU-godkjent 05.09.2023Ta kontakt for mer info om bilen.Km kan avvike.Forbehold om feil i annonse.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 18,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 91166.66666666667,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "HJ86751",
+                            "Price": 150000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313151617",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BD71195",
+                            "Price": 75000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=310469392",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "AE27734",
+                            "Price": 75000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=306280757",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "VH26619",
+                            "Price": 75000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314057121",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Volvo",
+                "Model": "V70",
+                "Reg_nr": "HS98385",
+                "Price": 90000,
+                "Rating": null,
+                "Year": 2011,
+                "KM": 150000,
+                "Place": "Oslo",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318473192",
+                "Description": "Flott og veldig godt vedlikeholdt 2011 Volvo V70 med full servicehistorik selges grunnet mangel p\u00e5 parkeringsmuligheter!Dette er en bil som har v\u00e6rt godt tatt vare p\u00e5 og det synes, b\u00e5de utvendig og innvendig. Bilen har tidligere hatt 1 eier som prim\u00e6rt har benyttet bilen til langkj\u00f8ring p\u00e5 saltfrie veier i Otta og i mitt eie fra desember 2022 har bilen prim\u00e6rt blitt brukt som turbil p\u00e5 lengre kj\u00f8returer.Volvo V70 er en fantastisk familiebil med masse plass til passasjerer og bagasje. Her f\u00e5r du hele 555 liter bagasjerom opp til setene, og takket v\u00e6re en rett bakluke og takprofil har du ogs\u00e5 god plass over seteryggen ogs\u00e5.Bilen er sv\u00e6rt billig i drift og har i mitt eie levert 4.6l/100km p\u00e5 blandet kj\u00f8ring sommerstid og 4.9 l/100 km p\u00e5 blandet kj\u00f8ring p\u00e5 vintertid. Dette er med takboks, som for\u00f8vrig ogs\u00e5 medf\u00f8lger bilen.Bilen er fint utstyrt med blandt annet:-Skinnseter-Bi-xenon hovedlys-Dieselvarmer med timer-Regnsensor-Ryggesensor-Tonede ruter-DAB radio-Cruisekontroll-Bluetooth handsfree+++Bilen har f\u00e5tt helt nye premium vinterdekk (med pigg), nytt batteri og ny magnetventil til AC kompressor som ble byttet og montert av volvoforhandler.Bilen har komplett servicehistorikk (se vedlagte bilder):-12.01.2012/13.417km-06.02.2013/28.441km-13.03.2014/40.238km-16.04.2015/58.854km-25.04.2016/73.346km-12.05.2017/88.569km-06.07.2018/100.373km-04.07.2019/114.434km-07.08.2020/121.483km + skifte av registrerreim-13.09.2021/127.720km-24.11.2022/135.362km + skiver og klosser foranNeste frist for godkjent EU-kontroll 25.03.2024",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 6,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 106333.33333333333,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "JD58246",
+                            "Price": 100000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314519661",
+                            "Date_sold": "12.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "DN32734",
+                            "Price": 95000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=311187014",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "KB42474",
+                            "Price": 95000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=229239086",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "ZH25209",
+                            "Price": 100000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=316334267",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            },
+            {
+                "Make": "Volvo",
+                "Model": "V70",
+                "Reg_nr": "ZN11445",
+                "Price": 30000,
+                "Rating": null,
+                "Year": 2004,
+                "KM": 190000,
+                "Place": "Til helvete",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318529125",
+                "Description": "",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 15,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 45533.333333333336,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "ST92803",
+                            "Price": 30000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313039134",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "KT56954",
+                            "Price": 40000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313130109",
+                            "Date_sold": "05.08.2023",
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "AX77304",
+                            "Price": 70000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313143269",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "VF64817",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=229538867",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "V50": [
+            {
+                "Make": "Volvo",
+                "Model": "V50",
+                "Reg_nr": "RJ97602",
+                "Price": 38000,
+                "Rating": null,
+                "Year": 2009,
+                "KM": 190000,
+                "Place": "Til helvete",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318179786",
+                "Description": "Praktisk Volvo V50 romslig stasjonsvogn. Bil med god kj\u00f8rekomfort og med den drivstoffgjerrige 1,6tdi motoren.Noe av utstyret som kan nevnes er: Tilhengerfeste, Cruisekontroll, integrerte barneseter, parkeringsvarmer med timer ++Sv\u00e6rt gode \"hakkapeliitta\" piggdekk medf\u00f8lger. Kun brukt 1 sesong.Utstyr utover starndard: - Tilhengerfeste- Multifunksjonsratt- Cruisekontroll- Parkeringsvarmer med timer- Integrerte barneseter- Kj\u00f8recomputer- Alu sommer - Alu vinter++Bilen er Eu-Godkjent frem til 14.02.25- Skifte av registerreim ved km: 158992 - Partikkelfilter byttet p\u00e5 116342 km. - B\u00e6rebro h\u00f8yre side foran skiftet 14.02.23Noen kosmetiske feil. Rift i f\u00f8rersete, noen sm\u00e5riper h\u00f8yre bakside og knekt sideskj\u00f8rt p\u00e5 f\u00f8rerside. Selges som den er.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 8,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 43500.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "RJ83211",
+                            "Price": 40000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=312975930",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "RA42114",
+                            "Price": 50000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313212818",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "SD47764",
+                            "Price": 39000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=313861529",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "UF34326",
+                            "Price": 38000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315546360",
+                            "Date_sold": "20.08.2023",
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "S40": [
+            {
+                "Make": "Volvo",
+                "Model": "S40",
+                "Reg_nr": "BR15545",
+                "Price": 11000,
+                "Rating": "Delebil",
+                "Year": 2005,
+                "KM": 150000,
+                "Place": "Ostfold",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318521143",
+                "Description": "Relativt lav km. Kun to eiere.Motor i god stand. Skiftet dynamo og str\u00f8mkabler i fjor.Nye sommerdekk i 2022 - Continental EcoContact 6 med f\u00e5 km.Noe rust ved hjulbuene p\u00e5 ventre side og nedre kant p\u00e5 baklukeIkke EU-godkjent / avskiltet. Kjente feil som m\u00e5 fikses if\u00f8lge verksted; bremsecalipere bak (setter seg fast av og til), fleksir\u00f8r i eksosanlegget m\u00e5 repareres eller byttes, noe slakk i bakre b\u00e6rearmsforing.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 5,
+                    "Sold to Unsold Ratio": 0.0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 28800.0,
+                    "Sold": [],
+                    "Unsold": [
+                        {
+                            "Reg_nr": "SD21362",
+                            "Price": 20000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=311761520",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "ZH14866",
+                            "Price": 59000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=314749930",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "RJ75324",
+                            "Price": 35000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=302847725",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        },
+                        {
+                            "Reg_nr": "BD36077",
+                            "Price": 15000,
+                            "URL": "https://www.finn.no/car/used/ad.html?finnkode=315446726",
+                            "Date_sold": null,
+                            "Days until sold": "x"
+                        }
+                    ]
+                }
+            }
+        ],
+        "V40": [
+            {
+                "Make": "Volvo",
+                "Model": "V40",
+                "Reg_nr": "BS78977",
+                "Price": 85000,
+                "Rating": null,
+                "Year": 2014,
+                "KM": 200000,
+                "Place": "Hordaland",
+                "Date_posted": "06.09.2023",
+                "URL": "https://www.finn.no/car/used/ad.html?finnkode=318511046",
+                "Description": "\u00c5rets mulighet til \u00e5 eie en eksepsjonell 2014 Volvo V40! Dette er bilen som forener den legendariske svenske ingeni\u00f8rkunsten med praktisk funksjonalitet og elegant design. Enten du er p\u00e5 jakt etter en p\u00e5litelig familiebil eller en f\u00f8rsteklasses pendler, s\u00e5 leverer denne Volvoen det p\u00e5 alle fronter.Volvo har alltid v\u00e6rt synonymt med sikkerhet. Den er utstyrt med avanserte sikkerhetssystemer, inkludert antikollisjonsbrems, adaptiv cruisekontroll, blindsonevarsler og mer.Interi\u00f8ret er utformet for \u00e5 gi deg en f\u00f8rsteklasses opplevelse. Setene er komfortable, og det er rikelig med plass for b\u00e5de f\u00f8rer, passasjerer og bagasje. Klimakontrollen gir optimal komfort uansett v\u00e6rforhold.Motoren gir en imponerende akselerasjon og jevn kj\u00f8ring. Den er ogs\u00e5 \u00f8konomisk med tanke p\u00e5 drivstoff bruk.Denne Volvoen er i veldig god stand, grundig vedlikehold og regelmessig servet. Alle servicehistorikken er tilgjengelig og viser at bilen har blitt tatt god vare p\u00e5 gjennom \u00e5rene.Denne bilen gir en flott kombinasjon av stil, sikkerhet og ytelse. For mer informasjon eller for \u00e5 avtale en visning, vennligst ta kontakt.",
+                "Days until sold": null,
+                "Similar cars": {
+                    "Number of Sold Cars": 0,
+                    "Number of Unsold Cars": 0,
+                    "Sold to Unsold Ratio": 0,
+                    "Average Price (Sold Cars)": 0,
+                    "Average Price (Unsold Cars)": 0,
+                    "Sold": [],
+                    "Unsold": []
+                }
+            }
+        ]
+    }
+}

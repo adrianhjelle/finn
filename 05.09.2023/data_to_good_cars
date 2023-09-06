@@ -1,0 +1,26 @@
+import json
+
+def move_to_good_cars():
+    # Load the data from data.json
+    with open("data.json", 'r') as file:
+        data = json.load(file)
+
+    # Filter data to keep only the cars with "Sold to Unsold Ratio" greater than 1
+    good_cars_data = {}
+
+    for brand, models in data.items():
+        for model, details in models.items():
+            cars_with_good_ratio = [car for car in details if "Similar cars" in car and car["Similar cars"]["Sold to Unsold Ratio"] > 1]
+            if cars_with_good_ratio:
+                if brand not in good_cars_data:
+                    good_cars_data[brand] = {}
+                good_cars_data[brand][model] = cars_with_good_ratio
+
+    # Saving the good_cars_data to a JSON file
+    with open("good_cars.json", "w") as file:
+        json.dump(good_cars_data, file, indent=4)
+    print("Ferdig!")
+
+if __name__ == "__main__":
+    move_to_good_cars()
+                        
