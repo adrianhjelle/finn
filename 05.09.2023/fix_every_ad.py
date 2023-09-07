@@ -200,5 +200,5 @@ def update_ads():
         except Exception as e:
             print(f"Error while saving JSON file: {e}")
 
-
+ 
 update_ads()
