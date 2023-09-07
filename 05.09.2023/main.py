@@ -312,22 +312,21 @@ def add_car_to_data(new_car, data):
     stats = analyze_similar_cars(similar_cars_info)
     similar_cars_info.update(stats)
 
-    # Check if the number of sold cars is greater than 1 before adding the info
+    # Always remove the full lists now that we've computed the statistics
+    similar_cars_info.pop('Full Sold List', None)
+    similar_cars_info.pop('Full Unsold List', None)
+
+    # Get the "Sold" and "Unsold" lists and pop them from the dictionary
+    sold_list = similar_cars_info.pop('Sold', [])
+    unsold_list = similar_cars_info.pop('Unsold', [])
+
+    # If the number of sold cars is greater than 1, re-add the "Sold" and "Unsold" lists at the end
     if similar_cars_info.get('Number of Sold Cars', 0) > 1:
-        # Remove the full lists now that we've computed the statistics
-        similar_cars_info.pop('Full Sold List', None)
-        similar_cars_info.pop('Full Unsold List', None)
-
-        # Get the "Sold" and "Unsold" lists and pop them from the dictionary
-        sold_list = similar_cars_info.pop('Sold', [])
-        unsold_list = similar_cars_info.pop('Unsold', [])
-
-        # Now, re-add the "Sold" and "Unsold" lists at the end
         similar_cars_info['Sold'] = sold_list
         similar_cars_info['Unsold'] = unsold_list
 
-        # Add the similar cars info to the new car data
-        new_car['Similar cars'] = similar_cars_info
+    # Add the similar cars info to the new car data
+    new_car['Similar cars'] = similar_cars_info
 
     # Append the new car to the list of cars under its make and model
     data[make][model].append(new_car)
