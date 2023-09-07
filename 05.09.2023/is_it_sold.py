@@ -39,6 +39,9 @@ def check_sold_ads():
                         date_posted = datetime.strptime(date_posted, '%d.%m.%Y').date()
                         date_diff = (current_date - date_posted).days
 
+                        """ if date_posted != current_date:
+                            date_diff -= 1 """
+
                         if date_diff > 6:
                             car["Days until sold"] = "x"
 
