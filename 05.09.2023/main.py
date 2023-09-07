@@ -97,12 +97,18 @@ def get_ad_info(url):
             if 1000000 <= km < 10000000:
                 km = km // 10
 
+            transmission = soup.find_all('div', class_='u-strong')[2].text.strip()
+        
             # Find the dd element that follows dt with 'Reg.nr.'
             reg_nr = None
             for dt in soup.find_all('dt'):
                 if dt.text.strip() == 'Reg.nr.':
-                    reg_nr = dt.find_next_sibling('dd').text
+                    reg_nr = dt.find_next_sibling('dd').text.strip()  # Added strip() to remove any potential whitespace
                     break
+
+            electric = False
+            if reg_nr and reg_nr.startswith(('EL', 'EK', 'EV', 'EB', 'EC', 'ED', 'EE', 'EF', 'EH')):  # Corrected the if statement
+                electric = True
 
             date_posted = datetime.date.today().strftime('%d.%m.%Y')
 
@@ -143,7 +149,6 @@ def get_ad_info(url):
                 description = full_description_text[:max_length] + '...'
             else:
                 description = full_description_text
-
 
             span = soup.find('span', class_='u-mh16', string=re.compile(r'^\d{4}\s'))
             if span:
@@ -190,9 +195,11 @@ def get_ad_info(url):
                 'Year': year,
                 'KM': km,
                 'Place': place,
+                'Transmission': transmission,
                 'Date_posted': date_posted,
                 'URL': url,
                 'Description': description,
+                'Electric': electric,
                 'Days until sold': days_until_sold
             }
 
@@ -201,12 +208,9 @@ def get_ad_info(url):
             time.sleep(5)  # Wait for 5 seconds before trying again
 
 
-def find_similar_cars(new_car, data):
+def find_similar_cars(new_car, data, make, model):
     similar_cars_sold = []  
     similar_cars_unsold = []  
-    
-    make = new_car['Make']
-    model = new_car['Model']
     
     # Check if the make exists in data
     if make not in data:
@@ -233,6 +237,8 @@ def find_similar_cars(new_car, data):
             car['Year'] <= new_car['Year']
             and car['KM'] >= new_car['KM']
             and (car['Price'] is not None and new_car['Price'] is not None and car['Price'] >= new_car['Price'])
+            and car['Transmission'] == new_car['Transmission'] or car['Transmission'] == None
+            and car['Electric'] == new_car['Electric']
 
         ):
             # Remove unnecessary keys
@@ -306,28 +312,27 @@ def add_car_to_data(new_car, data):
         return
 
     # If the car does not exist, find similar cars within the same model
-    similar_cars_info = find_similar_cars(new_car, data)
+    similar_cars_info = find_similar_cars(new_car, data, make, model)
 
     # Update the 'Similar cars' with statistics
     stats = analyze_similar_cars(similar_cars_info)
     similar_cars_info.update(stats)
 
-    # Check if the number of sold cars is greater than 1 before adding the info
+    # Always remove the full lists now that we've computed the statistics
+    similar_cars_info.pop('Full Sold List', None)
+    similar_cars_info.pop('Full Unsold List', None)
+
+    # Get the "Sold" and "Unsold" lists and pop them from the dictionary
+    sold_list = similar_cars_info.pop('Sold', [])
+    unsold_list = similar_cars_info.pop('Unsold', [])
+
+    # If the number of sold cars is greater than 1, re-add the "Sold" and "Unsold" lists at the end
     if similar_cars_info.get('Number of Sold Cars', 0) > 1:
-        # Remove the full lists now that we've computed the statistics
-        similar_cars_info.pop('Full Sold List', None)
-        similar_cars_info.pop('Full Unsold List', None)
-
-        # Get the "Sold" and "Unsold" lists and pop them from the dictionary
-        sold_list = similar_cars_info.pop('Sold', [])
-        unsold_list = similar_cars_info.pop('Unsold', [])
-
-        # Now, re-add the "Sold" and "Unsold" lists at the end
         similar_cars_info['Sold'] = sold_list
         similar_cars_info['Unsold'] = unsold_list
 
-        # Add the similar cars info to the new car data
-        new_car['Similar cars'] = similar_cars_info
+    # Add the similar cars info to the new car data
+    new_car['Similar cars'] = similar_cars_info
 
     # Append the new car to the list of cars under its make and model
     data[make][model].append(new_car)
